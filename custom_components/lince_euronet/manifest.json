@@ -1,0 +1,11 @@
+{
+  "domain": "lince_euronet",
+  "name": "Lince EuroNET",
+  "codeowners": [
+    "@edo2313"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/edo2313/hass-lince-euronet",
+  "iot_class": "local_polling",
+  "requirements": []
+}
